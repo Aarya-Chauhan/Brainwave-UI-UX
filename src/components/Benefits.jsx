@@ -14,6 +14,9 @@ const Benefits = () => {
           className="md:max-w-md lg:max-w-2xl"
           title="chat Smarter, Not Harder wit Brainwave "
         />
+        {/* <div className="flex flex-wrap gap10 mb10 ">{
+        {benefits.map((item)=>(
+          </div> */}
       </div>
     </section>
   );
