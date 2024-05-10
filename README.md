@@ -1,1 +1,1 @@
-A guided UI/UX project
+A guided UI/UX project.
