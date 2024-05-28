@@ -14,7 +14,9 @@ Brainwave is a robot-themed web application developed using Vite, React, and Tai
 
 # Screenshots
  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_SFrLfQU-DachORuXro9OEkmw-gxWqQsP8yxl1HVs3zrZPoBwGHu6FyNIYCKTpXVvp56f2ApkoyMeM3cgGVcw27x_ffwb7PIRJQZsFTfIXbIt7uUA-fT9z3y4U0JTHjRqJhiyKBwvVh89q2izwxeiS5rUqjcArYV4oaSxgkyaPniF5ebBmcXYvC-s2pA/s1920/brainwaveimg.png">
+ 
 # Tech Used
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
